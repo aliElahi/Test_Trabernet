@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Test Trabernet</string>
+
+
+    <string name="tehranCity">تهران</string>
+    <string name="shirazCity">شیراز</string>
+    <string name="esfehanCity">اصفهان</string>
+    <string name="mashhadCity">مشهد</string>
+    <string name="tabrizCity">تبریز</string>
+    <string name="karajCity">کرج</string>
+    <string name="kermanCity">کرمان</string>
+
+    <string name="consignmentPistachio">پسته</string>
+    <string name="consignmentCement">سیمان</string>
+    <string name="consignmentApple">سیب</string>
+    <string name="consignmentOrange">پرتغال</string>
+
+    <string name="weight1">1 تن</string>
+    <string name="weight2">2 تن</string>
+    <string name="weight3">3 تن</string>
+    <string name="weight4">4 تن</string>
+    <string name="weight5">5 تن</string>
+    <string name="weight6">6 تن</string>
+    <string name="weight7">7 تن</string>
+
+    <string name="packingMod">گونی</string>
+
+    <string name="price1">1 ملیون تومان</string>
+    <string name="price2">2 ملیون تومان</string>
+    <string name="price3">3 ملیون تومان</string>
+    <string name="price4">4 ملیون تومان</string>
+    <string name="price5">5 ملیون تومان</string>
+    
+    
+    <string name="source">مبدا</string>
+    <string name="destination">مقصد</string>
+    <string name="Weight">وزن</string>
+    <string name="consignment">بار</string>
+    <string name="packing">بسته بندی</string>
+    <string name="date">تاریخ</string>
+    <string name="consignment_is_selected">بار انتخواب شد</string>
+
+
+</resources>
